@@ -1,6 +1,6 @@
 # Northstar policy documents
 
-Synthetic, fictional documents used as evidence for the refund-approval change. They replace the old local evidence server. Read them directly, and read the GitHub issue that points to them.
+Synthetic, fictional documents used as evidence for the refund-approval change. Read them directly, and read the GitHub issue that points to them.
 
 | ID | Document | Version | Status | Owner |
 |---|---|---|---|---|
